@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mystock</string>
+
+    // Localized
+    <string name="action_settings">设置</string>
+    <string name="action_delete">删除</string>
+    <string name="button_add_label">添加</string>
+    <string name="stock_name_title">名称</string>
+    <string name="stock_now_title">最新</string>
+    <string name="stock_increase_percent_title">涨幅</string>
+    <string name="stock_increase_title">涨跌</string>
+    <string name="stock_sh_name">上证指数</string>
+    <string name="stock_sz_name">深圳成指</string>
+    <string name="stock_chuang_name">创业板指</string>
+    <string name="stock_buy">买</string>
+    <string name="stock_sell">卖</string>
+</resources>
