@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
             public void run() {
                 refreshStocks();
             }
-        }, 0, 2000);
+        }, 0, 10000); // 10 seconds
     }
 
     @Override
@@ -253,6 +253,7 @@ public class MainActivity extends AppCompatActivity {
             return;
 
         StockIds_.add(stockId);
+        refreshStocks();
     }
 
     public void sendNotifation(int id, String title, String text){

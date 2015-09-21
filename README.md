@@ -4,3 +4,5 @@ Mystock
 1.实时更新股票数据
 2.添加删除关注股票
 3.如果股票有大额委托挂单，发生消息提醒。
+
+Blog: http://www.cnblogs.com/ldlchina/p/4822406.html
